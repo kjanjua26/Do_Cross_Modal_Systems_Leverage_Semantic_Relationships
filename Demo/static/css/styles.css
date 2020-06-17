@@ -1,0 +1,34 @@
+.card-body, .center {
+    display: none;
+}
+
+#images {
+    padding-left: 200px;
+}
+
+.center {
+    text-align: center;
+}
+
+.center img {
+    width: 30px;
+}
+
+/* Overriding Styles */
+.btn {
+    margin-top: 20px;
+}
+
+#customFile {
+    width: 50px;
+}
+
+.custom-file {
+    margin-bottom: 12px;
+}
+
+.container {
+    width: 550px;
+    padding: 20px;
+    margin-top: 50px;
+}
