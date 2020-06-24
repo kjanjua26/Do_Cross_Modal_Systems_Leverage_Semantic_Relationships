@@ -15,6 +15,14 @@ Embedding of MSCOCO test set in latent space visualized using t-SNE. The semanti
 
 <img src="imgs/in_the_wild.png"/>
 
+## Quantitative Results
+Two variations of results are shown here. The first table compares the network with the state-of-the-art techniques available. In the second table, we forcibly do not consider those retrieval results which occur in pairs (image and 5 caption pairs) in the MSCOCO dataset.
+
+<img src="imgs/results.png"/>
+
+<img src="imgs/in_the_wild_res.png"/>
+
+
 ## Citation
 ```
 @inproceedings{nawaz2019cross,
