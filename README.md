@@ -24,6 +24,7 @@ Two variations of results are shown here. The first table compares the network w
 
 
 ## Citation
+If you use the code or the approach, please consider citing the work.
 ```
 @inproceedings{nawaz2019cross,
   title={Do Cross Modal Systems Leverage Semantic Relationships?},
