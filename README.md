@@ -10,6 +10,11 @@ This is the code for our ICCV'19 paper on cross modal learning and retrieval.
 
 ## Trained Models
 
+## Qualitative Results
+Embedding of MSCOCO test set in latent space visualized using t-SNE. The semantically similar text feature vectors (shown in red) and the image feature vectors (shown in blue) are close in the embedding space. Few bidirectional retrieval results are also shown which are semantically similar. It is important to note that not all occur in same class i.e. not all are pairs (image and 5 caption pairs) in the MSCOCO dataset.
+
+<img src="imgs/in_the_wild.png"/>
+
 ## Citation
 ```
 @inproceedings{nawaz2019cross,
