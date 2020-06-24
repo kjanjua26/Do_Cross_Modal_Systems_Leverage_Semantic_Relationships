@@ -1,5 +1,6 @@
 ## Do Cross Modal Systems Leverage Semantic Relationships?
 This is the code for our ICCV'19 paper on cross modal learning and retrieval.
+<img src="imgs/architecture.png"/>
 
 ## Project Page
 
