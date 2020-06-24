@@ -11,10 +11,11 @@ This is the code for our ICCV'19 paper on cross modal learning and retrieval.
 
 ## Citation
 ```
-@article{nawaz2019cross,
+@inproceedings{nawaz2019cross,
   title={Do Cross Modal Systems Leverage Semantic Relationships?},
-  author={Nawaz, Shah and Janjua, Muhammad Kamran and Gallo, Ignazio and Mahmood, Arif and Calefati, Alessandro and Shafait, Faisal},
-  journal={arXiv preprint arXiv:1909.01976},
+  author={Nawaz, Shah and Kamran Janjua, Muhammad and Gallo, Ignazio and Mahmood, Arif and Calefati, Alessandro and Shafait, Faisal},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision Workshops},
+  pages={0--0},
   year={2019}
 }
 ```
